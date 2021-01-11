@@ -1,3 +1,3 @@
 # TPs-Java
-Just some exercises from college.
-OOP - Array - ArrayList
+Exercises from college.
+OOP - Array - ArrayList - Exceptions - Interfaces - Inheritance
